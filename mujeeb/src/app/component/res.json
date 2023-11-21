@@ -1,0 +1,417 @@
+{
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/1AZcHRuWvmuUNhLj3XWcd54V80B.jpg",
+        "id": 670292,
+        "title": "The Creator",
+        "original_language": "en",
+        "original_title": "The Creator",
+        "overview": "Amid a future war between the human race and the forces of artificial intelligence, a hardened ex-special forces agent grieving the disappearance of his wife, is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war—and mankind itself.",
+        "poster_path": "/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          878,
+          28,
+          53
+        ],
+        "popularity": 1139.869,
+        "release_date": "2023-09-27",
+        "video": false,
+        "vote_average": 7.137,
+        "vote_count": 706
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+        "id": 872585,
+        "title": "Oppenheimer",
+        "original_language": "en",
+        "original_title": "Oppenheimer",
+        "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+        "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "popularity": 2464.545,
+        "release_date": "2023-07-19",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 4524
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jAW3L7N5ePEnIsBQP5vnmhw1qbl.jpg",
+        "id": 958263,
+        "title": "Believer 2",
+        "original_language": "ko",
+        "original_title": "독전 2",
+        "overview": "A determined detective continues his search for the truth behind Asia's largest drug organization and its elusive boss he has unfinished business with.",
+        "poster_path": "/g9aDZSqH5KmsHbMurhni5d2wq6q.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          80,
+          28,
+          53
+        ],
+        "popularity": 19.337,
+        "release_date": "2023-10-05",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hF5GdZpBeE5VCkIjXNfZD5Hvua9.jpg",
+        "id": 1001884,
+        "title": "Dashing Through the Snow",
+        "original_language": "en",
+        "original_title": "Dashing Through the Snow",
+        "overview": "Eddie Garrick is a good-hearted man who has turned his back on Christmas due to a traumatic childhood experience. At the request of his wife Allison Garrick, from whom he is separated, Eddie takes his 9-year-old daughter Charlotte to work with him on Christmas Eve, where they meet a mysterious man in a red suit named Nick. Eddie, who is a social worker, thinks the man is delusional and needs professional help, but when he evokes the wrath of a local politician, he and his daughter are taken on a magical adventure that just might restore his faith in Christmas.",
+        "poster_path": "/AnfXxsoLBS6JDpu65vHsEvEcWSA.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          35,
+          10751,
+          14
+        ],
+        "popularity": 60.922,
+        "release_date": "2023-11-17",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5a4JdoFwll5DRtKMe7JLuGQ9yJm.jpg",
+        "id": 695721,
+        "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+        "original_language": "en",
+        "original_title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+        "overview": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+        "poster_path": "/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "popularity": 577.038,
+        "release_date": "2023-11-15",
+        "video": false,
+        "vote_average": 7.367,
+        "vote_count": 109
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mDnBf8hStlfF9oSBu79vYqq2lTx.jpg",
+        "id": 987490,
+        "title": "Best. Christmas. Ever!",
+        "original_language": "en",
+        "original_title": "Best. Christmas. Ever!",
+        "overview": "When a twist of fate lands Charlotte and her family at her old college friend’s Jackie’s house only days before Christmas, she seizes the opportunity to prove her old friend's life isn’t as wonderful as it seems from her holiday newsletter.",
+        "poster_path": "/yNPgjXeeb7vdNI7AQB5SWkkk6si.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 87.3,
+        "release_date": "2023-11-16",
+        "video": false,
+        "vote_average": 6.273,
+        "vote_count": 11
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mRmRE4RknbL7qKALWQDz64hWKPa.jpg",
+        "id": 800158,
+        "title": "The Killer",
+        "original_language": "en",
+        "original_title": "The Killer",
+        "overview": "After a fateful near-miss, an assassin battles his employers, and himself, on an international manhunt he insists isn't personal.",
+        "poster_path": "/e7Jvsry47JJQruuezjU2X1Z6J77.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          80,
+          53
+        ],
+        "popularity": 497.849,
+        "release_date": "2023-10-25",
+        "video": false,
+        "vote_average": 6.784,
+        "vote_count": 692
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/t5zCBSB5xMDKcDqe91qahCOUYVV.jpg",
+        "id": 507089,
+        "title": "Five Nights at Freddy's",
+        "original_language": "en",
+        "original_title": "Five Nights at Freddy's",
+        "overview": "Recently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers that nothing at Freddy's is what it seems.",
+        "poster_path": "/A4j8S6moJS2zNtRR8oWF08gRnL5.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          27,
+          9648
+        ],
+        "popularity": 1355.052,
+        "release_date": "2023-10-25",
+        "video": false,
+        "vote_average": 7.968,
+        "vote_count": 2256
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4B3oS9lESptSBvlZxFw2ymLhUJd.jpg",
+        "id": 1180199,
+        "title": "In Love and Deep Water",
+        "original_language": "ja",
+        "original_title": "クレイジークルーズ",
+        "overview": "On a massive luxury cruise ship while at sea, the loyal butler and a mysterious woman cross paths as they try to uncover a murder-mystery that occurs on the ship.",
+        "poster_path": "/1KayITvy1A1zeuhjZOCiLavIqEA.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          10749,
+          35,
+          9648,
+          53
+        ],
+        "popularity": 60.239,
+        "release_date": "2023-11-16",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dFmp1KIGdSVDhIhy0yQNmCDTjav.jpg",
+        "id": 898713,
+        "title": "Rustin",
+        "original_language": "en",
+        "original_title": "Rustin",
+        "overview": "Gay civil rights activist Bayard Rustin helps Martin Luther King Jr. and others organize the 1963 March on Washington.",
+        "poster_path": "/lCawCmTJhKT7c2ZOzLBTXDIR8JS.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "popularity": 18.049,
+        "release_date": "2023-11-03",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cCmGKWhZbRsPyDTfRXTViflk9Wr.jpg",
+        "id": 1034940,
+        "title": "All-Time High",
+        "original_language": "fr",
+        "original_title": "Nouveaux riches",
+        "overview": "Trapped by his own lies to please the sublime Stella and ensure their lifestyle, Thiago commits little scams to keep up appearances. Unsurprisingly, when the masks fall (well, especially her wig), her life collapses. However, when he crosses paths with Stéphanie, on the verge of becoming extremely rich thanks to cryptocurrency, he regains confidence. Would she be the solution to all his problems or has he found his master?",
+        "poster_path": "/cQvINIqpk81Ax0QCcQXxjGD7Dgv.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "popularity": 40.733,
+        "release_date": "2023-11-17",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
+        "id": 609681,
+        "title": "The Marvels",
+        "original_language": "en",
+        "original_title": "The Marvels",
+        "overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+        "poster_path": "/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "popularity": 599.062,
+        "release_date": "2023-11-08",
+        "video": false,
+        "vote_average": 6.568,
+        "vote_count": 410
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yLTtHjy2nkrUf9o2Je83Ys7fzbp.jpg",
+        "id": 1078642,
+        "title": "Bihter: A Forbidden Passion",
+        "original_language": "tr",
+        "original_title": "Bihter",
+        "overview": "Bihter, who is desperate for love, sees Adnan, a wealthy and respected older guy, as a way out of the stereotype that society and her materialistic mother have given her.  But she soon discovers that she is not satisfied with his attention and has other needs.",
+        "poster_path": "/80LYrmrs3EcW0hj9aXAwglmXtJF.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          18,
+          10749,
+          36
+        ],
+        "popularity": 88.76,
+        "release_date": "2023-11-16",
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/628Dep6AxEtDxjZoGP78TsOxYbK.jpg",
+        "id": 575264,
+        "title": "Mission: Impossible - Dead Reckoning Part One",
+        "original_language": "en",
+        "original_title": "Mission: Impossible - Dead Reckoning Part One",
+        "overview": "Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the world's fate at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan must consider that nothing can matter more than his mission—not even the lives of those he cares about most.",
+        "poster_path": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "popularity": 1017.362,
+        "release_date": "2023-07-08",
+        "video": false,
+        "vote_average": 7.597,
+        "vote_count": 2434
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oTmE2OqoNxpZwZOFBtQWxyZwKr0.jpg",
+        "id": 843942,
+        "title": "Manodrome",
+        "original_language": "en",
+        "original_title": "Manodrome",
+        "overview": "Ralphie is an Uber driver and aspiring bodybuilder who is inducted into a libertarian masculinity cult and loses his grip on reality when his repressed desires are awakened.",
+        "poster_path": "/w5hACqUlPbpHiGLYbtoQHF0SNWe.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "popularity": 24.833,
+        "release_date": "2023-11-10",
+        "video": false,
+        "vote_average": 5,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+        "id": 346698,
+        "title": "Barbie",
+        "original_language": "en",
+        "original_title": "Barbie",
+        "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+        "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          35,
+          12,
+          14
+        ],
+        "popularity": 417.845,
+        "release_date": "2023-07-19",
+        "video": false,
+        "vote_average": 7.202,
+        "vote_count": 5918
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wOYDsD7WIKsz5DtrnjsvCcEyFJa.jpg",
+        "id": 753342,
+        "title": "Napoleon",
+        "original_language": "en",
+        "original_title": "Napoleon",
+        "overview": "A personal look at the French military leader’s origins and swift, ruthless climb to emperor, viewed through the prism of Napoleon’s addictive, volatile relationship with his wife and one true love, Josephine.",
+        "poster_path": "/jE5o7y9K6pZtWNNMEw3IdpHuncR.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          36,
+          18,
+          10752
+        ],
+        "popularity": 182.252,
+        "release_date": "2023-11-22",
+        "video": false,
+        "vote_average": 6.25,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zUiDv8K1L944L3FwiBmc6eFad1P.jpg",
+        "id": 1122932,
+        "title": "See You on Venus",
+        "original_language": "en",
+        "original_title": "See You on Venus",
+        "overview": "Mia and Kyle, two misfit American teens, travel to Spain in search of Mia's birth mother. As the pair road trip through the picturesque cities of Andalusia and fall in love, they discover that the most important question isn't who gave you life, but what you decide to do with it.",
+        "poster_path": "/r94waWYiNhXoAuCEWBCf2XEEegx.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          10749,
+          18
+        ],
+        "popularity": 15.631,
+        "release_date": "2023-07-21",
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 16
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pIbsQ4Cu8rGWkj8QjD6Sqy9NzAS.jpg",
+        "id": 1002315,
+        "title": "Please Don't Destroy: The Treasure of Foggy Mountain",
+        "original_language": "en",
+        "original_title": "Please Don't Destroy: The Treasure of Foggy Mountain",
+        "overview": "When three friends who live together realize that they don't like their life trajectory, they set off to find a gold treasure that is rumored to be buried in the nearby mountain.",
+        "poster_path": "/2WSTjQNamyMoy3kFDemd1os8TNz.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          35,
+          12
+        ],
+        "popularity": 46.284,
+        "release_date": "2023-11-17",
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tC78Pck2YCsUAtEdZwuHYUFYtOj.jpg",
+        "id": 926393,
+        "title": "The Equalizer 3",
+        "original_language": "en",
+        "original_title": "The Equalizer 3",
+        "overview": "Robert McCall finds himself at home in Southern Italy but he discovers his friends are under the control of local crime bosses. As events turn deadly, McCall knows what he has to do: become his friends' protector by taking on the mafia.",
+        "poster_path": "/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          28,
+          53,
+          80
+        ],
+        "popularity": 594.63,
+        "release_date": "2023-08-30",
+        "video": false,
+        "vote_average": 7.425,
+        "vote_count": 1630
+      }
+    ],
+    "total_pages": 1000,
+    "total_results": 20000
+  }
